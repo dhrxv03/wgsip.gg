@@ -1,5 +1,7 @@
 What Game Should I Play
 
+Getting bored of playing same game each day?
+Want to try something new? But don't know what to play use wgsip.
 What game should I play or wgsip.gg is a web application that helps you browse games acrross all platforms
 For the data, we have used IGDB API
 
